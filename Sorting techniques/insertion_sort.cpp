@@ -15,7 +15,7 @@ int main() {
         }
     }
     for(auto c : arr){
-        cout<<c<<endl;
+        cout<<c<<", ";
     }
 
     return 0;
