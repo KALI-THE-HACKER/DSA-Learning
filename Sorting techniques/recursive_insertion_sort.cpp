@@ -16,7 +16,7 @@ void insertion_sort(int arr[], int n, int i){
 }
 
 int main(){
-    int arr[] = {2, 12, -56, 35, 87, 3, 23, 10, 0, -345;
+    int arr[] = {2, 12, -56, 35, 87, 3, 23, 10, 0, -345};
     int n = sizeof(arr)/sizeof(arr[0]);
 
     insertion_sort(arr, n, 1);
